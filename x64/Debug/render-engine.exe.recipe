@@ -2,7 +2,7 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>C:\Users\Pavel\source\repos\render-engine\x64\Debug\render-engine.exe</FullPath>
+      <FullPath>C:\Users\Pavel\source\repos\render\opengl-engine\x64\Debug\render-engine.exe</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />

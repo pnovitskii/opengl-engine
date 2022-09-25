@@ -1,1 +1,2 @@
 C:\Users\Pavel\source\repos\render-engine\x64\Debug\render-engine.exe
+C:\Users\Pavel\source\repos\render\opengl-engine\x64\Debug\render-engine.exe
