@@ -1,2 +1,9 @@
 ﻿  Main.cpp
+C:\Users\Pavel\source\repos\render\opengl-engine\Main.cpp(33,31): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Pavel\source\repos\render\opengl-engine\Main.cpp(34,16): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Pavel\source\repos\render\opengl-engine\Main.cpp(37,31): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Pavel\source\repos\render\opengl-engine\Main.cpp(38,16): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Pavel\source\repos\render\opengl-engine\Main.cpp(41,31): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Pavel\source\repos\render\opengl-engine\Main.cpp(42,16): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Pavel\source\repos\render\opengl-engine\Main.cpp(67,2): warning C4305: инициализация: усечение из "double" в "GLfloat"
   render-engine.vcxproj -> C:\Users\Pavel\source\repos\render\opengl-engine\x64\Debug\render-engine.exe
